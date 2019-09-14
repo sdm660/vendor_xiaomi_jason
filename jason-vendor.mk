@@ -864,7 +864,6 @@ PRODUCT_PACKAGES += \
     uceShimService \
     CNEService \
     WfdService \
-    com.qualcomm.location \
     ims \
     qcrilmsgtunnel \
     PowerOffAlarm \
